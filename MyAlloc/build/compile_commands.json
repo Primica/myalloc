@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/arthurmalfere/Developer/MyAlloc/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/untitled.dir/src/main.c.o -c /Users/arthurmalfere/Developer/MyAlloc/src/main.c",
+  "file": "/Users/arthurmalfere/Developer/MyAlloc/src/main.c",
+  "output": "CMakeFiles/untitled.dir/src/main.c.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/arthurmalfere/Developer/MyAlloc/build/CMakeFiles/untitled.dir
+/Users/arthurmalfere/Developer/MyAlloc/build/CMakeFiles/edit_cache.dir
+/Users/arthurmalfere/Developer/MyAlloc/build/CMakeFiles/rebuild_cache.dir
